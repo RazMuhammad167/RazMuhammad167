@@ -38,11 +38,22 @@ Android Developer with 2+ years of experience delivering high-performance, user-
 
 ### 🛠️ Featured Projects
 
-* 🎲 **Cube Resolver ($3 \times 3$):** Intelligent assistant for solving Rubik's Cubes via pattern analysis. [Play Store Link](https://play.google.com/store/apps/details?id=com.rubiks.cube.solver.app)
-* 🛠️ **Object Remover:** Image editing tool using pixel blending and custom touch gestures in Kotlin.
-* 📲 **Smart Switch & Contact Backup:** Secure data migration solution built with Java/Kotlin & Firebase.
-* 📿 **Tasbeeh Counter:** Elegant Flutter app with persistent storage and real-time counter logic.
-* 🧭 **Qibla Finder:** Real-time compass utilizing Mapbox API and device sensors.
+**🤖 AI & Logic Based**
+* 🎲 **Cube Resolver ($3 \times 3$):** Intelligent assistant that analyzes patterns to solve Rubik's Cubes step-by-step. [Live Link](https://play.google.com/store/apps/details?id=com.rubiks.cube.solver.app)
+* 🪄 **Object Remover AI:** Advanced image editor using pixel blending to remove unwanted objects via custom touch gestures.
+* 💬 **AI Chatbot:** Integrated smart text-based interactions for improved user engagement.
+
+* 🔄 **Smart Switch & Contact Backup:** A secure solution for cross-device data migration and Firebase-backed contact recovery.
+* 🪿 **Tasbeeh Counter (Flutter):** Developed a responsive prayer counter with persistent storage and real-time logic.
+* 🖥️ **Screen Mirroring:** Implemented real-time display sharing features for Android devices.
+* 📞 **IDialer:** A custom-built dialer application focusing on clean user flow and performance.
+
+* 🧭 **Qibla Finder:** Integrated Mapbox API and device sensors for high-precision direction tracking.
+* 🏀 **Basketball App:** Developed features for sports-related tracking and interactive UI.
+* 🔍 **QR & Barcode Scanner:** Efficient tool for fast scanning and data retrieval.
+* 📜 **Quotes App:** A content-driven app featuring a modern Material Design UI.
+
+---
 
 ---
 
