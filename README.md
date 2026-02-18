@@ -1,7 +1,16 @@
-# 👋 Hi, I'm Raz Muhammad!
+<h1 align="center">Hi 👋, I'm Raz Muhammad!</h1>
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=RazMuhammad167&label=Profile%20views&color=0e75b6&style=flat" alt="RazMuhammad167" />
+</p>
+<p align="left">
+<a href="https://github.com/RazMuhammad167?tab=followers">
+  <img src="https://img.shields.io/github/followers/RazMuhammad167?label=Follow%20RazMuhammad167&style=social" />
+</a>
+</p>
 
 ### 🚀 Software Engineer | Mobile Application Developer
-Android Developer with 2+ years of experience delivering high-performance, user-centric mobile applications using Java and Kotlin. Proficient in MVVM architecture, RESTful API integration, and clean code practices.
+Android and flutter developer  with 2.5+ years of experience delivering high-performance, user-centric mobile applications using Java and Kotlin. Proficient in MVVM architecture, RESTful API integration, and clean code practices.
 
 - 🔭 I’m currently working at **Encoder byte**
 - 🌱 I’m currently learning **Advanced Flutter & AI Integration**
@@ -18,6 +27,7 @@ Android Developer with 2+ years of experience delivering high-performance, user-
 <a href="https://linkedin.com/in/raz-muhammad-4103a51b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://www.instagram.com/razmuhammad.167?igsh=MXRsaHUxZWRzbXM4dg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 <a href="https://www.facebook.com/share/14V1nYVvjf1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
 <a href="mailto:razmuhammad.167@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" /></a>
 </p>
 
