@@ -15,8 +15,8 @@ Android and flutter developer  with 2.5+ years of experience delivering high-per
 - 🔭 I’m currently working at **Encoder byte**
 - 🌱 I’m currently learning **Advanced Flutter & AI Integration**
 - 👯 I’m looking to collaborate on **Flutter Projects , Problem Solving Related to Mobile Application**
-- 🤝 I’m looking for help with **Flutter Projects**
-- 💬 Ask me about **Flutter**
+- 🤝 I’m looking for help with **Native Android & Flutter Projects**
+- 💬 Ask me about **Native Android & Flutter**
 - 📫 How to reach me **razmuhammad.167@gmail.com**
 - ⚡ Fun fact: I developed the **Cube Resolver** which is live on the Play Store!
 
